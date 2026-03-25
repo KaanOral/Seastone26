@@ -867,8 +867,10 @@ footer{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    width: 30%;
+    width: 10%;
+    margin-left: 12px;
 }
+
 
 .footer__brand img{
     width: 125px;
