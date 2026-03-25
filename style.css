@@ -75,6 +75,7 @@ a{
 }
 
 .nav__logo {
+  height: 25vh;
   border-radius: 100px;
 }
 
