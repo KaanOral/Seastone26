@@ -867,9 +867,8 @@ footer{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    width: 10%;
-    margin-left: 12px;
-}
+   width: 10%;
+   
 
 
 .footer__brand img{
@@ -987,6 +986,12 @@ color: white;
  .movie__overlay h2{
     font-size: 1.5rem;
   }
+
+    .footer__brand{
+    justify-content: space-evenly;
+    width: 40%;
+   
+}
 }
 
 @media (max-width:760px)
