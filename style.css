@@ -255,6 +255,7 @@ p{
   display: flex;
   align-items: center;
   justify-content: center;
+   text-align: center;
   border: 4px solid rgb(14, 14, 209);
 }
 
